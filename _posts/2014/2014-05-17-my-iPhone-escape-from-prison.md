@@ -22,7 +22,7 @@ tags: iPhone
 在iTools、PP助手、同步推等工具出现之后，其实不用越狱也可以实现安装破解的收费APP了，不过越狱的精髓在我看来应该是各种插件的安装了。首先给大家看看我手机上所安装的插件们，蓝后再为大家说明各中妙处。
 
 {:.center}
-![chengdu](/images/2014/IMG_0789.PNG){:style="max-width:700px"}
+![chengdu](/images/2014/IMG_0789.PNG){:style="max-width:350px"}
 
 {:.center}
 这些都是我安装的插件！
@@ -40,7 +40,7 @@ LocallAPStore是IOS平台上非常出名的一款游戏内购工具。我想我�
 NoBlur其实是我个人比较喜欢的一款美化插件，它可以让你的解锁背景不再是毛玻璃的样式，而是可以变成全透明的，这样可以让你的壁纸充分的展示出来。例如像这样：
 
 {:.center}
-![chengdu](/images/2014/NoBlur.png){:style="max-width:700px"}
+![chengdu](/images/2014/NoBlur.png){:style="max-width:600px"}
 
 {:.center}
 漂亮的透明效果！
