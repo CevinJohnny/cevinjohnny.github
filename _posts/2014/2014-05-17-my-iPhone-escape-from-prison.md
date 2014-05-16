@@ -22,7 +22,7 @@ tags: iPhone
 在iTools、PP助手、同步推等工具出现之后，其实不用越狱也可以实现安装破解的收费APP了，不过越狱的精髓在我看来应该是各种插件的安装了。首先给大家看看我手机上所安装的插件们，蓝后再为大家说明各中妙处。
 
 {:.center}
-![chengdu](/images/2014/IMG_0789.PNG){:style="max-width:350px"}
+![chengdu](/images/2014/IMG_0789.PNG){:style="max-width:50%"}
 
 {:.center}
 这些都是我安装的插件！
@@ -40,7 +40,7 @@ LocallAPStore是IOS平台上非常出名的一款游戏内购工具。我想我�
 NoBlur其实是我个人比较喜欢的一款美化插件，它可以让你的解锁背景不再是毛玻璃的样式，而是可以变成全透明的，这样可以让你的壁纸充分的展示出来。例如像这样：
 
 {:.center}
-![chengdu](/images/2014/NoBlur.png){:style="max-width:600px"}
+![chengdu](/images/2014/NoBlur.png){:style="max-width:80%"}
 
 {:.center}
 漂亮的透明效果！
@@ -52,3 +52,7 @@ NoDelay则是一款加速动画的插件，像我这种有点急性子的人会�
 Springtomize3这款插件可以说是插件中的瑞士军刀，超级实用。里面的功能非常的强大和全面。从锁屏的滑动解锁字样，时间的显示，状态栏的显示，到文件夹的背景透明，动画速度的调整，图标的显示和隐藏统统都可以控制。可见它是有多么强大了吧！
 
 随后要说的VirtualHome，这款插件其实是为了更好的利用iPhone5s的HOME键，相当于利用了5s的Home键的感应功能，把HOME键变成了一个虚拟键，这样就可以更好的保护HOME按钮，减少HOME键按下的操作，使得HOME键的寿命更长。比如我们安装了VirtualHome插件之后就可以设置，只需要触摸HOME键就相当于是按下了HOME键，可以回到桌面；短暂的触摸两下HOME键就模拟了快速按下两次HOME键，实现调出后台程序的功能。还有一些详细的功能可以自己进一步去摸索！
+
+关于希望还想安装一些自己需要的插件的朋友可以浏览这个帖子，十分的全面！ 插件不建议安装太多，毕竟比较耗电，安装自己需求比较大的就好了，自己拿捏把握吧。
+
+全面的插件帖子：[http://bbs.feng.com/read-htm-tid-7485479.html](http://bbs.feng.com/read-htm-tid-7485479.html)
