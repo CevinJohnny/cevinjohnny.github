@@ -7,8 +7,8 @@ url:              http://cevinjohnny.github.io/
 feed:             /feed.xml
 author:
     name:         CevinJohnny
-    twitter:      
-    key:           
+    tumblr:       http://cevinjohnny.tumblr.com/
+    key:          cevinjohnny 
 description:      "."
 copyright:        "CopryRight GuoJing 2012-2012 by GitHub and Jekyll"
 headdesc:         "CevinJohnny的博客，关于设计，开发以及生活。"
