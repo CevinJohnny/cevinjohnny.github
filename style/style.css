@@ -44,18 +44,38 @@ hr {
   margin: 40px 0 40px 0;
 }
 
+.header{background: url(http://blog-pic.qiniudn.com/topbar-bg.jpg); height: 45px;}
+#nav0{display: block;margin: 0 auto;width: 735px;padding-top: 10px;}
+#nav0 li{float: left; width: 80px;list-style-type:none;}
+#nav0 a{line-height: 25px; font-size: 15px;text-shadow: 1px 1px 5px #000;color: #888;}
+#nav0 a:visited {background: url(http://blog-pic.qiniudn.com/topbar-bg-ac.jpg); }
+#nav0 a:hover{color: white; }
+
+#head{height: 120px; width:700px; 
+  color: #FFF;line-height: 100px; font-size: 40px; 
+  font-family: Minion,Georgia,SimSun,serif;
+  font-weight: bold; text-align: center;
+  padding: 15px 0 15px 0;margin: 0 auto;
+}
+
+#head a{color: #FFF;text-decoration: none;}
+#head a:hover{text-shadow: 1px 1px 3px #969696;
+      transition: color 0.25s linear 0s, text-shadow 0.25s linear 0s;}
+
 .container {
+  clear: both;
   max-width: 700px;
   background: #FFF;
   overflow: hidden;
   padding: 20px;
-  border-radius: 0px 0px 10px 10px;
+  border-radius: 10px 10px 10px 10px;
 }
 
 .banner {
   font-size: 14px;
   margin: 0 auto 10px -18px;
 }
+clear: both;
 
 .title {
   font-size: 3.8rem;
