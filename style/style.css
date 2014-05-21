@@ -74,11 +74,11 @@ hr {
 .banner {
   font-size: 14px;
   margin: 0 auto 10px -18px;
+  clear: both;
 }
-clear: both;
 
 .title {
-  font-size: 3.8rem;
+  font-size: 3.0em;
   margin-left: -5px;
   margin-bottom: 30px;
   color: #38485a;
