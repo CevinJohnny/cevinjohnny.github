@@ -52,13 +52,13 @@ hr {
 #nav0 a:hover{color: white; }
 
 #head{height: 120px; width: auto; 
-  color: #FFF;line-height: 100px; font-size: 3.5em; 
+  color: #FFF;line-height: 100px; 
   font-family: Minion,Georgia,SimSun,serif;
   font-weight: bold; text-align: center;
   padding: 15px 0 15px 0;margin: 0 auto;
 }
 
-#head a{color: #FFF;text-decoration: none;}
+#head a{color: #FFF;text-decoration: none;font-size: 300%; }
 #head a:hover{text-shadow: 1px 1px 3px #969696;
       transition: color 0.25s linear 0s, text-shadow 0.25s linear 0s;}
 
